@@ -8,8 +8,9 @@
   "packageRules": [
     {
       "matchDepTypes": [
+        "action",
         "devDependencies",
-        "action"
+        "packageManager"
       ],
       "automerge": true
     },
